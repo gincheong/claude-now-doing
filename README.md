@@ -25,16 +25,16 @@ The engine's own elapsed time and token count stay on the line as before.
 At the prompt of a terminal session:
 
 ```
-/plugin install now-doing --marketplace <owner>/<repo>
+/plugin install now-doing --marketplace gincheong/claude-now-doing
 ```
 
 From a shell:
 
 ```
-claude plugin install now-doing --marketplace <owner>/<repo>
+claude plugin install now-doing --marketplace gincheong/claude-now-doing
 ```
 
-In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `<owner>/<repo>`, then Add plugin.
+In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `gincheong/claude-now-doing`, then Add plugin.
 
 Answer `y` to add the marketplace, then pick a scope (user scope loads it in every session).
 
