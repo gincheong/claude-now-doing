@@ -1,6 +1,6 @@
 {
-  "name": "now-doing",
+  "name": "claude-now-doing",
   "description": "A Claude Code mod that shows what Claude is doing right now in place of the spinner's random verb.",
-  "owner": { "name": "<owner>" },
+  "owner": { "name": "gincheong" },
   "plugins": [{ "name": "now-doing", "source": "./" }]
 }
