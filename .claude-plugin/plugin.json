@@ -1,0 +1,6 @@
+{
+  "name": "now-doing",
+  "version": "0.1.0",
+  "description": "Replaces the spinner's random verb with what Claude is actually doing: the running tool and its target, the model step, or the subagents at work.",
+  "types": "./types/index.d.ts"
+}
